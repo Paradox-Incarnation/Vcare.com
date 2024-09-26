@@ -1,8 +1,6 @@
+
 # Vcare.com : TO SEND A POWERFUL MESSAGE, WE USE DIFFERENT MEDIA.
-
-# Vcare.com
-
-Vcare.com is a comprehensive media literacy website dedicated to educating users about various modes of media and their impact on society. This full-stack application is built using JavaScript, HTML, and CSS, providing an interactive and user-friendly experience.
+Vcare.com is a comprehensive media literacy website dedicated to educating users about various modes of media and their impact on society. This full-stack application is built using JavaScript, HTML, and CSS, providing an interactive and user-friendly experience. The website is hosted on GitHub Pages for easy access.
 
 ## Features
 
@@ -28,10 +26,11 @@ To run this project locally, follow these steps:
    ```
 3. Open the `index.html` file in your browser to view the website.
 
+## Live Demo
+
+You can view the live version of the website hosted on GitHub Pages at [Vcare.com](https://paradox-incarnation.github.io/Vcare.com/).
+
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
-
-
-
 
